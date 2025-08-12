@@ -49,9 +49,9 @@
 ---
 
 ## 🧩 Featured Projects
-- **[Project One]((unoxyrich.github.io))** This repository contains a Flask-based web application for AI-powered symptom diagnosis.
-- **[Project Two]((https://github.com/UnoxyRich/web-element-blocker))** — Chrome extension removes most of ads in YouTube using a content script.
-- **[Project Three]((https://github.com/UnoxyRich/pygame-open-gl-test))** — pygame test on openGL: glTexParameteri glBindFramebuffer glMatrixMod GL_QUAD_STRI
+- **1.unoxyrich.github.io** This repository contains a Flask-based web application for AI-powered symptom diagnosis.
+- **2.https://github.com/UnoxyRich/web-element-blocker** — Chrome extension removes most of ads in YouTube using a content script.
+- **3.https://github.com/UnoxyRich/pygame-open-gl-test** — pygame test on openGL: glTexParameteri glBindFramebuffer glMatrixMod GL_QUAD_STRI
 
 ---
 
