@@ -27,11 +27,10 @@
 
 ---
 
-## 🧰 Tech I use
-1.**Languages:** Python · CSS · shell
-2.**Frameworks:** React · Node.js
-3.**Cloud/Tools:** Docker · GitHub Actions
-4.**Software:** Davinci, PR, AE, Visual Stuidio Code, Blender
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+
+
 
 ---
 
