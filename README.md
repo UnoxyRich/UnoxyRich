@@ -1,29 +1,33 @@
-<h1 align="left">Hi, I'm UnoxyRich | vibe coder, web designer, and video editor</h1>
+# <img src="https://img.icons8.com/fluency/48/laptop-coding.png" alt="coding" width="40" align="absmiddle"> Hi, I'm UnoxyRich
 
-<p align="left">
-  I build actually useful programs with vibe coding and focus on clean, modern web UI.
-  My main language is Python, and I excel at creating web interfaces with React.
-</p>
+> **Vibe Coder** | **Web Designer** | **Video Editor**
 
-<h3 align="left">Social Media</h3>
-<p align="left">
-  <a href="https://www.douyin.com/user/MS4wLjABAAAAi191-jsXGGkf0PB0LD0UnmbsldJV_lKVgtTcS2l7uUE">Douyin</a> |
-  <a href="https://space.bilibili.com/3493290007595270">Bilibili</a> |
-  <a href="https://www.xiaohongshu.com/user/profile/639ef4f40000000026011629">Xiaohongshu</a>
-</p>
+I am a developer who enjoys turning rough ideas into practical tools that people can actually use. My main language is **Python**, and I specialize in building clean, modern, and user-friendly web interfaces with **React**.
 
-<h3 align="left">About Me</h3>
-<p align="left">
-  - Video editing with Premiere Pro and After Effects 2026<br/>
-  - Anime watcher (currently watching Frieren 2)<br/>
-  - Visual novel player (currently playing Manosaba)<br/>
-  - Music taste: Vocaloid and Phonk
-</p>
+I care about creating products that are both functional and visually polished. My workflow is fast and experimental, but I always aim for useful output rather than just flashy demos.
 
-<p align="left">
-  <img
-    src="https://raw.githubusercontent.com/UnoxyRich/UnoxyRich/main/github-metrics.svg"
-    alt="GitHub metrics"
-    width="100%"
-  />
-</p>
+---
+
+## <img src="https://img.icons8.com/fluency/48/globe-earth.png" alt="social" width="32" align="absmiddle"> Social Media
+
+* [Douyin](https://www.douyin.com/user/MS4wLjABAAAAi191-jsXGGkf0PB0LD0UnmbsldJV_lKVgtTcS2l7uUE)
+* [Bilibili](https://space.bilibili.com/3493290007595270)
+* [Xiaohongshu](https://www.xiaohongshu.com/user/profile/639ef4f40000000026011629)
+
+## <img src="https://img.icons8.com/fluency/48/idea-sharing.png" alt="about" width="32" align="absmiddle"> About Me
+
+* I edit videos using **Premiere Pro** and **After Effects 2026**, and I enjoy refining motion, pacing, and visual storytelling.
+* I like vibe coding projects that are creative but still solve real problems in daily workflows.
+* I watch anime regularly, and I am currently watching **Frieren 2**.
+* I play visual novels, and I am currently playing **Manosaba**.
+* My favorite music genres are **Vocaloid** and **Phonk**, which I often listen to while coding or editing.
+
+## <img src="https://img.icons8.com/fluency/48/combo-chart.png" alt="metrics" width="32" align="absmiddle"> Metrics
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="100%" valign="top">
+      <img src="https://raw.githubusercontent.com/UnoxyRich/UnoxyRich/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
+    </td>
+  </tr>
+</table>
