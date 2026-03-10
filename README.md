@@ -26,11 +26,11 @@ I am a developer who enjoys turning rough ideas into practical tools that people
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>GitHub Metrics</h3>
-      <img src="https://raw.githubusercontent.com/UnoxyRich/UnoxyRich/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
+      <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
     </td>
     <td align="center" width="50%" valign="top">
       <h3>Steam Recently Played</h3>
-      <img src="https://raw.githubusercontent.com/UnoxyRich/UnoxyRich/main/steam-metrics.svg" alt="Steam metrics" width="100%" />
+      <img src="./steam-metrics.svg" alt="Steam metrics" width="100%" />
     </td>
   </tr>
 </table>

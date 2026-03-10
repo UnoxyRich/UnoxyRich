@@ -44,7 +44,7 @@ jobs:
           user: UnoxyRich
           filename: steam-metrics.svg
           template: classic
-          base: ""
+          base: metadata
           config_timezone: Asia/Shanghai
 
           plugin_isocalendar: no
