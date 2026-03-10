@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="706" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="897" class="">
     <defs>
         <style/>
     </defs>
@@ -120,7 +120,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 31 achievements unlocked
+                                            31 / 31 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAACAcCAwkE/8QAKRAAAgEDBAEDAwUAAAAAAAAAAQIEAwUHAAYREhQTIpEIMVIhMlGBof/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABsRAAICAwEAAAAAAAAAAAAAAAADAREhMXES/9oADAMBAAIRAxEAPwBU6l+Tci3Tau40tttt9urUVt/nVq8yS9IKPUKBQFU8/bn51sypvq77XvlthWoWmnHrRK8uRIuAchBTamoC9WH6k1B99ErMWSbxu3c7PJEWO8WkIhaIjoKgV+/PDkn9x/vga1Wv1IEhhTNszIm8plkk2ePDp0IryBWp1mYsVdF44YDjntzq46504uyDdtjbskXm2RaFwny6LRmSQGbt2dWJHUgluVHzpT4Ay/eckXq7wrxboERYVBKq+OHDFi5Ug9mOqxdZgc0e3POMr/v6Vbam359viLRjVo9fyi/LB2Rvb1U/hon5Xx3edhbghwLzMjXCbOpeurx2dufcV4JYA88jXRLUUzrhmbkrcNuuUS8ULesWL6BSpRZyT3Lcggj+dRbKmpAU8X4/vG+N117PapNC33CJRaSzySy9erKpA6gkNyw+NKb6fsQ3vHF7u829T7fLWbQSkvjM5YMHLEnso1jhDCM7HO75V6mXuhcFrQ3jdEosh5Z0bsSSfx/3Vz1WMvEDmj//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Visual Novel Sweetie！</div>
+                                                <div class="unlocked">8 Mar 2026</div>
+                                            </div>
+                                            <div class="description">Really? Needing Cheats for Lilith's Route?</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgUGAwf/xAAsEAACAQMCBAUDBQAAAAAAAAABAgMEBREAIRIxQVEyUmGBwRMjcQYUJJHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMABAUH/8QAIREAAAUEAgMAAAAAAAAAAAAAAAECESEDBCIxEmGRsdH/2gAMAwEAAhEDEQA/AIS1fTnBC5Dr4kYYZfyPnTyKnGOWlcVKk4RstHMnglTZl/0eh20ypqxqdliuIVCThJ12jc9j5T6HbsdUVTodAoESSy8gpqcY5anLjCKmcxLvFEcyHoW6L7cz7DVJcp2LilpmC1DjiZuf0k82O/QDv+NLKiKOCARRDCKMAc/c9zqJNgLhJKgtCZoKNquQ/elpYV2/jTvkt24icYHoOehuNkvaRSNQX6eWLhOY6hyNuozuDoqKqWNFVcBQMADprW43GR6SempRx1DxsOeAoIO5+B10+XgZTUjp5O/RmXoRNiuN1p7l++o1qKl1wsuzOGXyn+tu2uirdI66lE0YdCfEjjDIexGlH6amip7DSrAoTiXifuW6k6wu88hInpm++gxg8nXyn40V5K0E23K3pPyd5b4P/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Go on</div>
+                                                <div class="unlocked">8 Mar 2026</div>
+                                            </div>
+                                            <div class="description">Of course, let's pick the negative choice</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+29 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -250,7 +275,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 23 achievements unlocked
+                                            6 / 23 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwMAAggE/8QALRAAAQMDAgEMAwEAAAAAAAAAAgEDBAAFEQYxIQcSExQzQVFhY3OUsnGB0bH/xAAXAQEBAQEAAAAAAAAAAAAAAAAABAMF/8QAHxEBAAICAgIDAAAAAAAAAAAAAQIRAAMEMZHRYbHB/9oADAMBAAIRAxEAPwAaNtmCywyywyRq0JuOONoZERJnv2RM1PrPoxfjh/Krcu3b9hr6JTRre+W/Rlr0szC0lpqYsy1tyHXZcJCNT23THhXSkp1kfH1RnCLItS18e8EusejF+OH8qEloJYlltoHEFVEmwQdkzhUTgtdIWaz6X1/oywPXizx7PLuFwOO2dljg1lRFVwSkirzcZ/eKArvDbt99uENkiJqO860KluqCqomfPhSNrTlvF0a5TigUoeVPxyFy7dv2GvolMesNPv8AKDYtJztNzrU4EO3DEkNyJgsm24K8UVFoSKa1MFoueIOi2IGJLjiKYyi+C4rVUbXc2VXzMaNvWZcXTsIRQ6K+vWdCtX+38mGh7DAuzUW7ahjSXZTEeJLQm2CVMIThJunHagaTKcnXCTLfx0r5OOnjbJZVf9ryJ0abOMp+DGsJ5pgDMnAVeaqCIkiqqqmO6kRG3LePrlrlGygRb+G/ef/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Don't Forget to Stay Hydrated</div>
+                                                <div class="unlocked">2 Mar 2026</div>
+                                            </div>
+                                            <div class="description">Heard a special story from Satone.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAABgcDAAECBAX/xAAsEAABAwMDAgQGAwAAAAAAAAABAgMEBQYRACExEhQHIlPRExVBkZOUMlFx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQAAwX/xAAhEQEAAgIBAwUAAAAAAAAAAAABAhEAAwQSITFBYXGBof/aAAwDAQACEQMRAD8ATS22YLLDLLDKllpK3HHGwtSlKGfrwBnUfcH0Yv66PbRTbFoT7xrgiQlsx2WYrb0mU+cNsNhAypWiCZF8NLeQhDjdwXI6SR3LZ7WMsjnoJ3UPvrSko0Ynx9cNmsklvq+/nFt3B9GL+uj21BJaRLSrLbSHAklKm0BPAzggbHTRhwfDW40FDHz62nyQkSHyJUVJPAWrlP3GhO8bUn2fXDT6iWnAtousSGTlt9sg4Wk6EXqacd4ujXLbEA8l/bWduzLzjWm5VGKhSTVIdTgtR3WQ+WfL0jO4BOsb+vmn3HbtGo1JoSqVFpi1qaBlF/ZWMjcZ5GedAaprUxLSutKHUtpQtKjjdIxkH+jjVso9Vr8g99F7tmVcTTOOqPSPivynD+yL6plBtSp0GsUBVWiT3kuuASyx/HgbDPO/OtXxEvJi8JlMMOlmmxafDMVtkvfF8oyRvgf5oKyj1WvyD31SnmmELWpxBPSQlKVAkkjH01IiStx3ja56tkVKBvv825//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>See you later.</div>
+                                                <div class="unlocked">27 Feb 2026</div>
+                                            </div>
+                                            <div class="description">Leave Call Using the Exit Button</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+4 others...</div>
                                         </div>
                                     </div>
                                 </div>
