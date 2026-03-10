@@ -2,12 +2,7 @@
 
 ## **Vibe Coder** | **Web Designer** | **Video Editor**
 
-### I am a developer who enjoys turning rough ideas into practical tools that people can actually use.
-### My main language is **Python**, and I specialize in building clean, modern, and user-friendly web interfaces with **React**.
-### I care about creating products that are both functional and visually polished.
-### My workflow is fast and experimental, and I like iterating quickly from concept to working prototype.
-### I focus on clarity, usability, and performance so each project feels smooth in real-world use.
-### I aim for useful output and meaningful user value rather than just flashy demos.
+<sub>I am a developer who enjoys turning rough ideas into practical tools that people can actually use. My main language is Python, and I specialize in building clean, modern, and user-friendly web interfaces with React. I care about creating products that are both functional and visually polished. My workflow is fast and experimental, and I like iterating quickly from concept to working prototype. I focus on clarity, usability, and performance so each project feels smooth in real-world use. I aim for useful output and meaningful user value rather than just flashy demos.</sub>
 
 ---
 
