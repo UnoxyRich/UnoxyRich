@@ -4,7 +4,7 @@
 
 <p align="left">
   <img
-    src="https://raw.githubusercontent.com/UnoxyRich/UnoxyRich/main/metrics.left.svg"
+    src="https://raw.githubusercontent.com/UnoxyRich/UnoxyRich/main/github-metrics.svg"
     alt="GitHub metrics"
     width="100%"
   />
