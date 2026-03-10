@@ -22,7 +22,7 @@ Create these repository secrets in GitHub:
 - `STEAM_USER_ID`
   - Steam user ID (numeric SteamID64) for the Steam plugin in `metrics.yml`.
   - Referenced in:
-    - `.github/workflows/metrics.yml`
+    - `.github/workflows/metrics.yml` 
 
 ## How to add secrets
 
