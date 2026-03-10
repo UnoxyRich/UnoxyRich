@@ -10,7 +10,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: UnoxyRich
@@ -33,12 +34,29 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3
 
+          plugin_steam: no
+          plugin_notable: yes
+
+      - name: Generate Steam metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: UnoxyRich
+          filename: steam-metrics.svg
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+
+          plugin_isocalendar: no
+          plugin_languages: no
+          plugin_people: no
+          plugin_stars: no
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: ${{ secrets.STEAM_USER_ID }}
-          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_sections: recently-played
           plugin_steam_games_limit: 8
           plugin_steam_recent_games_limit: 6
           plugin_steam_playtime_threshold: 0
 
-          plugin_notable: yes
+          plugin_notable: no
