@@ -33,17 +33,17 @@ I am a developer who enjoys turning rough ideas into practical tools that people
 
 <p align="center">
   <a href="https://www.douyin.com/user/MS4wLjABAAAAi191-jsXGGkf0PB0LD0UnmbsldJV_lKVgtTcS2l7uUE">
-    <img src="https://cdn.simpleicons.org/tiktok/000000" alt="Douyin" width="20" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Douyin_logo.svg/960px-Douyin_logo.svg.png" alt="Douyin" width="22" />
     Douyin
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://space.bilibili.com/3493290007595270">
-    <img src="https://cdn.simpleicons.org/bilibili/00A1D6" alt="Bilibili" width="20" />
+    <img src="https://upload.wikimedia.org/wikipedia/fr/0/0b/Bilibili_Logo.png" alt="Bilibili" width="22" />
     Bilibili
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.xiaohongshu.com/user/profile/639ef4f40000000026011629">
-    <img src="https://img.icons8.com/color/48/xiaohongshu.png" alt="Xiaohongshu" width="20" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/XiaohongshuLOGO.png" alt="Xiaohongshu" width="22" />
     Xiaohongshu
   </a>
 </p>
