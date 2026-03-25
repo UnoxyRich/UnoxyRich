@@ -15,15 +15,16 @@ I am a developer who enjoys turning rough ideas into practical tools that people
 ## Tools I use
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="56" height="56" />
-  <img src="https://cdn.simpleicons.org/blender" alt="Blender" width="56" height="56" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects" alt="After Effects" width="56" height="56" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro" alt="Premiere Pro" width="56" height="56" />
-  <img src="https://cdn.simpleicons.org/python" alt="Python" width="56" height="56" />
-  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="56" height="56" />
-  <img src="https://cdn.simpleicons.org/css" alt="CSS" width="56" height="56" />
-  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="56" height="56" />
-  <img src="https://cdn.simpleicons.org/astro" alt="Astro" width="56" height="56" />
+  <img src="./assets/tools/vscode.svg" alt="VS Code" width="56" height="56" />
+  <img src="./assets/tools/blender.svg" alt="Blender" width="56" height="56" />
+  <img src="./assets/tools/aftereffects.svg" alt="After Effects" width="56" height="56" />
+  <img src="./assets/tools/premierepro.svg" alt="Premiere Pro" width="56" height="56" />
+  <img src="./assets/tools/python.svg" alt="Python" width="56" height="56" />
+  <img src="./assets/tools/javascript.svg" alt="JavaScript" width="56" height="56" />
+  <img src="./assets/tools/typescript.svg" alt="TSX" width="56" height="56" />
+  <img src="./assets/tools/css3.svg" alt="CSS" width="56" height="56" />
+  <img src="./assets/tools/tailwindcss.svg" alt="Tailwind CSS" width="56" height="56" />
+  <img src="./assets/tools/astro.svg" alt="Astro" width="56" height="56" />
 </p>
 
 ## <img src="https://img.icons8.com/fluency/48/combo-chart.png" alt="metrics" width="36" align="absmiddle"> Metrics
