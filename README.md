@@ -12,6 +12,20 @@ I am a developer who enjoys turning rough ideas into practical tools that people
 - I am currently playing [**Magical Girl Witch Trials**](https://store.steampowered.com/app/3101040/Magical_Girl_Witch_Trials/).
 - Favorite music while coding/editing: **Vocaloid** and **Phonk**.
 
+## Tools I use
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/blender" alt="Blender" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects" alt="After Effects" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro" alt="Premiere Pro" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/css" alt="CSS" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="56" height="56" />
+  <img src="https://cdn.simpleicons.org/astro" alt="Astro" width="56" height="56" />
+</p>
+
 ## <img src="https://img.icons8.com/fluency/48/combo-chart.png" alt="metrics" width="36" align="absmiddle"> Metrics
 
 <table align="center" width="100%">
