@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -175,20 +175,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 48.1mb of code in 8035 edited files across 402 commits</small>
+                <small>estimation from 48.1mb of code in 8042 edited files across 403 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.5477361288901" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="329.5477361288901" y="0" width="40.90410165489613" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="370.45183778378623" y="0" width="35.5559298835152" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="406.00776766730144" y="0" width="23.878305644679262" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="429.88607331198074" y="0" width="11.365742626880817" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.25181593886157" y="0" width="8.406834854038461" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="449.65865079290006" y="0" width="6.036805200427581" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="455.69545599332764" y="0" width="4.3045440066724" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="328.7506069547679" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="328.7506069547679" y="0" width="40.80516044184642" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="369.55576739661427" y="0" width="35.46992513847847" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="405.0256925350928" y="0" width="24.64657211217404" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="429.67226464726684" y="0" width="11.33825050953273" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.01051515679956" y="0" width="8.386499914393902" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="449.39701507119344" y="0" width="6.308853002791496" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="455.70586807398496" y="0" width="4.294131926015078" height="8" fill="#012456"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1354,7 +1354,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>llvm/llvm-project</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</div>
@@ -1529,7 +1529,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2026, 12:45:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Apr 2026, 15:47:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
