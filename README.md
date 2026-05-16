@@ -8,8 +8,8 @@ I am a developer who enjoys turning rough ideas into practical tools that people
 
 - I edit videos with **Premiere Pro** and **After Effects 2026**.
 - I enjoy creative vibe-coding projects that still solve real workflow problems.
-- I am currently watching [**Frieren 2**](https://www.netflix.com/title/81726714).
-- I am currently playing [**Magical Girl Witch Trials**](https://store.steampowered.com/app/3101040/Magical_Girl_Witch_Trials/).
+- I am currently watching **Classroom of the Elite**.
+- I am currently playing **Black Souls**.
 - Favorite music while coding/editing: **Vocaloid** and **Phonk**.
 
 ## Tools I use
