@@ -38,7 +38,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        5 hours played
+                                        7 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -46,7 +46,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 18 May 2026
+                                        Last played on 19 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -55,32 +55,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            14 / 39 achievements unlocked
+                                            16 / 39 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcGCAECA//EACoQAAEDAwMDAwQDAAAAAAAAAAECAwQABRESIUEiMVEGExQVFnGBIzKh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMGAv/EACARAQEAAgICAgMAAAAAAAAAAAECAAMEESFBEiIxcZH/2gAMAwEAAhEDEQA/AIRGjptrYiwk+2lsYUUjdZ5JPNd2nZbqtLRecV4QkqP+VrJ1fNc0f2KsD807rdYPt2NGfssVuTPUENSC67pyDjUsHjG+w75q427Y48zIfrKemfvM3UsqAfjr17Ov44toHpL1BcLIm5RQVhSylLBOlwpGcq3xyMY71FpkX52uFcEFRJKOtPU2ryOQQasdeJEiFY5L0dSJElhor/kGn3MDJ7diRntVdmFl2ehxRJK16iScnffvS+NteTNfMOsUXbsiKpRTsXxmXlBFxKz2S4FH9EU6PrgO4Vsd6R8d5FzbEqGQ4hwZKQd0HkEcUUam3RtCEJK9KNhlIO3g1vbqnkTNDgqNjsq4lRexDGzIu4djutlWy0KSf2MUloYxKZHhQFEjcLqUqHV1eEjb8UJkPJtjZlTCG0tgkBR3WeABzR1a5480r4wTGw2TdygIqmf/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwP/xAApEAABAwQCAQMDBQAAAAAAAAABAgMEAAUGERJRIRNBcQciYjEyNWFy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACIRAAEDBQACAwEAAAAAAAAAAAECAxEABAUSITFBIlFh8P/aAAwDAQACEQMRAD8A6Ynjlut9ljoRHQpakgqWoeVHuklnx1m63FuHGiN81eSopJCR2aiWcbtkUfgK0rHLHFhSdia+buy0l5TbJCUcFdEghQ71WyuXkWzUDh9VLL169futtrVqlREBRAABgR2BRrIMFg2piMlosyZyzpbCU+da/UDr5otmv0/YkYzKefYYSptvn9v7kf3WtT4UdFx9Zqa45d5DBcDb3lsoT+QSOA6348GguSZA5JsM+OqMhIW0U7CydUrbvOPo1Hy+5/vFMNuvtXraH1qAUoCCokETHZmZ91HxaySZtoiuEhlotgpUob5fAqxs790avz9ojSktuttLLbobDhTpHLiAfZWqNYR9Qor+Nwm2VRgWWwgpWTsfNN7HllkbbVJelwY8p3kHADon22Trqk8stwshem4kRHY/ap423LWQfcDSjttBg69UCD4g1TZLcLkzdEW+bJ9ZZZQp1z0whS+SeXAgew3VBd/4uV/g0wyvIrFcIJUidDdkJ4hGjtQ1oHR11Wb5Zkdut9lkLXIQpakkJQk+VHqj4VYFspakadMzyfHaBlWHncnbuBogJCdjHOKJJmIHK//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Stream of Consciousness</div>
-                                                <div class="unlocked">18 May 2026</div>
+                                                <div>NewType</div>
+                                                <div class="unlocked">19 May 2026</div>
                                             </div>
-                                            <div class="description">Totally knock back 300 Ghosts</div>
+                                            <div class="description">Achieve grade "S" in a Lv.7 or Lv.7+ stage</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUGB//EACsQAAEDAwIFBAEFAAAAAAAAAAECAwQABREGIRITMUFRBxQiYRYkMkJxgf/EABgBAAIDAAAAAAAAAAAAAAAAAAEGAAQF/8QAHhEAAgMAAgMBAAAAAAAAAAAAAQIAAxESITFBYXH/2gAMAwEAAhEDEQA/AMPHZRbGxFhgNpbABUkbrPck96v6Pgqvt/YgyJbjLSkqUopxxHAzgZ7moswfqndv5Vr9DXqNYo4lTH0FkOEGOyTzlqVgcSweqUpBIx3Pmnx14V5WPyMDWulxQMQoJ630IDXFs/H737SLMceaU2HBxkcSMk7HH9Z/2s1IZRc2zFmAOJcGApQ3QexB7VodXzpT895EtmGtbiuamW0j5PNEko+XjG3QHbB6VDhg+6a2P7qKpyrx+4Eud7gjMSCQMJnftJtoOmraShBPJG5SPuous7m5ZXzIiLy6GwOQ8BylJVkcSQBupKgCfo+KN6e61ss7TEJKprTLzTYQtCzgg07Vc+1XmyPQ2LxFacUUqBUo4ODnB26Vl192ciNBl66t7CXrGg9giM0rIhvwmkRo8haXE8xUl1vKXXDgr+XnO3QDbA6UnVjaBpq5EIQDyTuEj6qLo2XbLHaPaybzEdcU4XDwqPCnONhkfVG9Qta2WDpialM1p551soQhBySaDjjZvrfMlKPWVdxgHn5P/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwH/xAAmEAACAQMCBgIDAAAAAAAAAAABAgQAAxEFQQYTISIxYRJRM3Gh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMGAP/EACERAQACAQQCAwEAAAAAAAAAAAECEQADBBIhQWETkaHw/9oADAMBAAIRAxEAPwCHjWF01FiQlFtUwpKjudtyTvTW3FkhA8mXyQdietENFE2XIcZFnJA91S6jwzcOiadPlt87ci2Ha5aH4iwyAfseKtp6hp1CPQZcbbbhaqrfGNoUNePw9ZNXIskoWjSxeA2B60qk2F1JGiTVDq+VBYdyNsQdjWmy+BIcPhttS06fdeXZsm+XJHLugDJGMdB5qHmIrS4chBgXsE/utDUjqXB7H1iZR+c5FxRCUVURa8/SOdhupmy47nAvZAPuqvg/i63psY6HxEhaFgpbukZ+KnYjdfojxWfRr66kiy4TcxXwxCnuRtwRsabJJkMgWVE5wG5HWjOBqHKPY/1mCMvnOLcWKsZAoi34+xMf6nqzXoGoaToc03YD3PLrgldwM7H+490gmOqy4cdDnlYBPuh5N9UKxYfJz5IHWlUm+umo0ua3wCZYBj3O2wA3OaGnA0zlLoMfudwFULJrlKkKG/P6+s//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Inner World</div>
-                                                <div class="unlocked">18 May 2026</div>
+                                                <div>Give Up Treatment</div>
+                                                <div class="unlocked">19 May 2026</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+12 others...</div>
+                                            <div class="description ellipsis">+14 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -326,7 +326,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2026, 10:08:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 May 2026, 15:36:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
