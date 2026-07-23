@@ -175,20 +175,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 43.7mb of code in 8029 edited files across 359 commits</small>
+                <small>estimation from 43.7mb of code in 8038 edited files across 360 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.2969841283689" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="285.2969841283689" y="0" width="67.83763585074566" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="353.1346199791146" y="0" width="48.449540255165005" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="401.5841602342796" y="0" width="25.735425674725306" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="427.3195859090049" y="0" width="18.78121435326482" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="446.10080026226973" y="0" width="10.805443075191471" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.9062433374612" y="0" width="1.7113065379316845" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.61754987539285" y="0" width="1.3824501246071734" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.7500054597799" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="284.7500054597799" y="0" width="67.69103846235494" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="352.44104392213484" y="0" width="48.344840614897976" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="400.7858845370328" y="0" width="26.299431434556787" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="427.0853159715896" y="0" width="19.04552051403484" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="446.13083648562446" y="0" width="10.782092471719485" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.9129289573439" y="0" width="1.7076083980119987" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.6205373553559" y="0" width="1.379462644644078" height="8" fill="#012456"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1383,7 +1383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ehmo/platform-design-skills</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Platform design skill pack: 300+ rules for Apple HIG, Material Design 3, and WCAG 2.2 across iOS, iPadOS, macOS, watchOS, visionOS, tvOS, Android, and Web.</div>
@@ -1546,7 +1546,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2026, 21:20:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2026, 23:46:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
