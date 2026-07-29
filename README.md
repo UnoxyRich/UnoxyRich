@@ -1,30 +1,44 @@
 # <img src="https://img.icons8.com/fluency/48/laptop-coding.png" alt="coding" width="44" align="absmiddle"> Hi, I'm UnoxyRich
 
-## **Vibe Coder** | **Web Designer** | **Video Editor**
+## **AI Agent Builder** | **Cross-Platform Developer** | **Creative Technologist**
 
-I am a developer who enjoys turning rough ideas into practical tools that people can actually use. My main language is Python, and I specialize in building clean, modern, and user-friendly web interfaces with React. I care about creating products that are both functional and visually polished. My workflow is fast and experimental, and I like iterating quickly from concept to working prototype. I focus on clarity, usability, and performance so each project feels smooth in real-world use. I aim for useful output and meaningful user value rather than just flashy demos.
+I build AI-powered, cross-platform products that turn ambitious ideas into working software fast. My recent work spans TypeScript, Electron, browser automation, and Cloudflare Workers—from local AI companions and multi-agent research tools to browser extensions and lightweight CLIs.
+
+I care about shipping software that feels useful, polished, and full of personality—not just impressive demos.
 
 ## <img src="https://img.icons8.com/fluency/48/idea-sharing.png" alt="about" width="36" align="absmiddle"> About Me
 
-- I edit videos with **Premiere Pro** and **After Effects 2026**.
-- I enjoy creative vibe-coding projects that still solve real workflow problems.
-- I am currently watching **Classroom of the Elite**.
-- I am currently playing **Black Souls**.
-- Favorite music while coding/editing: **Vocaloid** and **Phonk**.
+- Hackathon builder based in **Shanghai**, exploring AI agents, local-first software, and cross-platform products.
+- My work spans desktop apps, browser extensions, Cloudflare Workers, automation, and creative tooling.
+- Recognized at **HackMIT China 2026**, the **AdventureX miHoYo Track**, and **USACO Gold**.
+- I create and edit videos with **After Effects** and **Premiere Pro**, reaching **8M+ views** and **10K+ followers** across platforms.
+- Comfortable working across **macOS**, **Windows**, and **Arch Linux**.
+- Open to hackathons, ambitious experiments, and project collaborations.
 
 ## Tools I use
 
 <p align="center">
-  <img src="./assets/tools/vscode.svg" alt="VS Code" width="56" height="56" />
-  <img src="./assets/tools/blender.svg" alt="Blender" width="56" height="56" />
-  <img src="./assets/tools/aftereffects.svg" alt="After Effects" width="56" height="56" />
-  <img src="./assets/tools/premierepro.svg" alt="Premiere Pro" width="56" height="56" />
-  <img src="./assets/tools/python.svg" alt="Python" width="56" height="56" />
-  <img src="./assets/tools/javascript.svg" alt="JavaScript" width="56" height="56" />
-  <img src="./assets/tools/typescript.svg" alt="TSX" width="56" height="56" />
-  <img src="./assets/tools/css3.svg" alt="CSS" width="56" height="56" />
-  <img src="./assets/tools/tailwindcss.svg" alt="Tailwind CSS" width="56" height="56" />
-  <img src="./assets/tools/astro.svg" alt="Astro" width="56" height="56" />
+  <strong>Build</strong><br><br>
+  <img src="./assets/tools/typescript.svg" alt="TypeScript" title="TypeScript" width="52" height="52" />
+  <img src="./assets/tools/javascript.svg" alt="JavaScript" title="JavaScript" width="52" height="52" />
+  <img src="./assets/tools/python.svg" alt="Python" title="Python" width="52" height="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="52" height="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" title="Electron" width="52" height="52" />
+  <img src="./assets/tools/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52" />
+</p>
+
+<p align="center">
+  <strong>Automate & Ship</strong><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="52" height="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare Workers" title="Cloudflare Workers" width="52" height="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="52" height="52" />
+</p>
+
+<p align="center">
+  <strong>Create & Work</strong><br><br>
+  <img src="./assets/tools/vscode.svg" alt="VS Code" title="VS Code" width="52" height="52" />
+  <img src="./assets/tools/aftereffects.svg" alt="After Effects" title="After Effects" width="52" height="52" />
+  <img src="./assets/tools/premierepro.svg" alt="Premiere Pro" title="Premiere Pro" width="52" height="52" />
 </p>
 
 ## <img src="https://img.icons8.com/fluency/48/combo-chart.png" alt="metrics" width="36" align="absmiddle"> Metrics
@@ -47,13 +61,23 @@ I am a developer who enjoys turning rough ideas into practical tools that people
 ## <img src="https://img.icons8.com/fluency/48/globe-earth.png" alt="social" width="36" align="absmiddle"> Social Media
 
 <p align="center">
+  <a href="https://github.com/UnoxyRich">
+    GitHub · @UnoxyRich
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.douyin.com/user/MS4wLjABAAAAi191-jsXGGkf0PB0LD0UnmbsldJV_lKVgtTcS2l7uUE">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Douyin_logo.svg/960px-Douyin_logo.svg.png" alt="Douyin" style="height:22px; width:auto; vertical-align:middle;" />
-    Douyin
+    Douyin · @metalpipe
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.xiaohongshu.com/user/profile/639ef4f40000000026011629">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/XiaohongshuLOGO.png" alt="Xiaohongshu" style="height:22px; width:auto; vertical-align:middle;" />
-    Xiaohongshu
+    Xiaohongshu · @metalpipe
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://bonjour.bio/1gj66i">
+    Bonjour!
   </a>
 </p>
+
+<p align="center">WeChat Channels · <strong>metalpipe</strong></p>
