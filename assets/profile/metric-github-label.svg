@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="66" viewBox="0 0 540 66" role="img" aria-label="GitHub 数据">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#153a32"/><stop offset="1" stop-color="#102d3b"/></linearGradient></defs>
+  <rect x="1" y="1" width="538" height="64" rx="18" fill="#07131a" fill-opacity="0.9" stroke="#75e8b7" stroke-opacity="0.7" stroke-width="2"/>
+  <circle cx="38" cy="33" r="17" fill="url(#g)" stroke="#78f0be" stroke-opacity="0.7"/>
+  <text x="38" y="39" text-anchor="middle" fill="#b8f7d4" font-size="13" font-weight="800" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">GH</text>
+  <text x="68" y="41" fill="#a9ddff" font-size="20" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">GitHub 数据</text>
+</svg>

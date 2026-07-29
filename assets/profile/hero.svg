@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">你好，我是 UnoxyRich</title>
+  <desc id="desc">AI 智能体构建者、跨平台开发者与创意技术人</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#78f0be"/>
+      <stop offset="0.52" stop-color="#75d9ff"/>
+      <stop offset="1" stop-color="#b7f8d5"/>
+    </linearGradient>
+    <radialGradient id="glowGreen" cx="0" cy="0" r="1" gradientTransform="translate(1000 40) rotate(135) scale(360 220)">
+      <stop stop-color="#5ce0aa" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#5ce0aa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientTransform="translate(150 330) rotate(-38) scale(430 230)">
+      <stop stop-color="#61c8ff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#61c8ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#95e8db" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="1197" height="337" rx="30" fill="#07131a" fill-opacity="0.9" stroke="url(#border)" stroke-width="3"/>
+  <rect x="2" y="2" width="1196" height="336" rx="29" fill="url(#grid)"/>
+  <rect x="2" y="2" width="1196" height="336" rx="29" fill="url(#glowGreen)"/>
+  <rect x="2" y="2" width="1196" height="336" rx="29" fill="url(#glowBlue)"/>
+
+  <g transform="translate(66 52)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <rect width="192" height="34" rx="17" fill="#10272c" fill-opacity="0.9" stroke="#78f0be" stroke-opacity="0.55"/>
+    <circle cx="18" cy="17" r="5" fill="#78f0be"/>
+    <text x="34" y="23" fill="#b8f7d4" font-size="15" font-weight="600" letter-spacing="1.6">个人主页 · 2026</text>
+
+    <text x="0" y="105" fill="#b8f7d4" font-size="53" font-weight="750">你好，我是 <tspan fill="#92dcff">UnoxyRich</tspan></text>
+    <text x="0" y="151" fill="#9ee9ff" font-size="25" font-weight="650">AI 智能体构建者 · 跨平台开发者 · 创意技术人</text>
+    <text x="0" y="198" fill="#a8dcd8" font-size="18">把大胆的想法快速做成真正可运行、可交付、有个性的产品。</text>
+    <text x="0" y="226" fill="#91cfd9" font-size="16">近期专注 TypeScript、Electron、浏览器自动化与 Cloudflare Workers。</text>
+  </g>
+
+  <g transform="translate(818 251)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="15" font-weight="650">
+    <g>
+      <rect width="92" height="38" rx="19" fill="#12352f" stroke="#77e8b8" stroke-opacity="0.7"/>
+      <text x="46" y="25" text-anchor="middle" fill="#b8f7d4">AI 智能体</text>
+    </g>
+    <g transform="translate(102)">
+      <rect width="92" height="38" rx="19" fill="#102d3b" stroke="#73d2ff" stroke-opacity="0.7"/>
+      <text x="46" y="25" text-anchor="middle" fill="#a9ddff">跨平台</text>
+    </g>
+    <g transform="translate(204)">
+      <rect width="92" height="38" rx="19" fill="#12352f" stroke="#77e8b8" stroke-opacity="0.7"/>
+      <text x="46" y="25" text-anchor="middle" fill="#b8f7d4">黑客松</text>
+    </g>
+  </g>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M1028 82c54 13 83 44 91 92" stroke="#77e8b8" stroke-opacity="0.5" stroke-width="2"/>
+    <path d="M1063 69c43 23 67 54 70 94" stroke="#73d2ff" stroke-opacity="0.44"/>
+    <circle cx="1026" cy="81" r="6" fill="#78f0be" stroke="none"/>
+    <circle cx="1118" cy="177" r="4" fill="#75d9ff" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="124" viewBox="0 0 1200 124" role="img" aria-labelledby="title desc">
+  <title id="title">联系与关注</title>
+  <desc id="desc">在不同平台找到 UnoxyRich</desc>
+  <defs><linearGradient id="border" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#78f0be"/><stop offset="1" stop-color="#75d9ff"/></linearGradient></defs>
+  <rect x="1.5" y="1.5" width="1197" height="121" rx="24" fill="#07131a" fill-opacity="0.9" stroke="url(#border)" stroke-width="3"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="52" y="55" fill="#b8f7d4" font-size="28" font-weight="750">联系与关注</text>
+    <text x="52" y="84" fill="#8ed6f2" font-size="15">代码、视频、动态与合作入口</text>
+    <g transform="translate(1060 30)" fill="none" stroke-linecap="round" stroke-width="3">
+      <circle cx="30" cy="30" r="25" stroke="#78f0be" stroke-opacity="0.7"/>
+      <path d="M18 31l8 8 17-20" stroke="#75d9ff"/>
+    </g>
+  </g>
+</svg>
