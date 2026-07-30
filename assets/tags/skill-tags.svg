@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="752" height="32" viewBox="0 0 752 32" role="img" aria-labelledby="title description">
+  <title id="title">Platforms and skills</title>
+  <desc id="description">Apple, Windows, Arch Linux, 跨端开发, 全栈, Hackathon Builder, Electron, Typescript, Arch Linux, Windows, Apple</desc>
+  <defs>
+    <symbol id="apple" viewBox="0 0 24 24">
+      <path fill="#F5F5F5" d="M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701"/>
+    </symbol>
+    <symbol id="windows" viewBox="0 0 24 24">
+      <path fill="#00A4EF" d="M0 3.45 9.75 2.1v9.45H0V3.45Zm10.95-1.5L24 0v11.4H10.95V1.95ZM0 12.6h9.75v9.45L0 20.7v-8.1Zm10.95 0H24V24l-13.05-1.8v-9.6Z"/>
+    </symbol>
+    <symbol id="arch" viewBox="0 0 24 24">
+      <path fill="#1793D1" d="M11.39.605C10.376 3.092 9.764 4.72 8.635 7.132c.693.734 1.543 1.589 2.923 2.554-1.484-.61-2.496-1.224-3.252-1.86C6.86 10.842 4.596 15.138 0 23.395c3.612-2.085 6.412-3.37 9.021-3.862a6.61 6.61 0 0 1-.171-1.547l.003-.115c.058-2.315 1.261-4.095 2.687-3.973 1.426.12 2.534 2.096 2.478 4.409a6.52 6.52 0 0 1-.146 1.243c2.58.505 5.352 1.787 8.914 3.844-.702-1.293-1.33-2.459-1.929-3.57-.943-.73-1.926-1.682-3.933-2.713 1.38.359 2.367.772 3.137 1.234-6.09-11.334-6.582-12.84-8.67-17.74z"/>
+    </symbol>
+  </defs>
+
+  <use href="#apple" x="0" y="4" width="24" height="24"/>
+  <use href="#windows" x="32" y="4" width="24" height="24"/>
+  <use href="#arch" x="64" y="4" width="24" height="24"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="600" text-anchor="middle">
+    <rect x="104" y="2" width="88" height="28" rx="6" fill="#252a31"/>
+    <text x="148" y="22" fill="#86efac">跨端开发</text>
+    <rect x="198" y="2" width="52" height="28" rx="6" fill="#252a31"/>
+    <text x="224" y="22" fill="#6ee7b7">全栈</text>
+    <rect x="256" y="2" width="180" height="28" rx="6" fill="#252a31"/>
+    <text x="346" y="22" fill="#4ade80">Hackathon Builder</text>
+    <rect x="442" y="2" width="92" height="28" rx="6" fill="#252a31"/>
+    <text x="488" y="22" fill="#34d399">Electron</text>
+    <rect x="540" y="2" width="112" height="28" rx="6" fill="#252a31"/>
+    <text x="596" y="22" fill="#22c55e">Typescript</text>
+  </g>
+
+  <use href="#arch" x="664" y="4" width="24" height="24"/>
+  <use href="#windows" x="696" y="4" width="24" height="24"/>
+  <use href="#apple" x="728" y="4" width="24" height="24"/>
+</svg>
