@@ -11,38 +11,38 @@
 
 ## Tools I use
 
-<table align="center" width="100%">
+<table align="center" width="50%">
   <tr>
     <td align="right" valign="middle" width="20%"><h3>Build</h3></td>
     <td align="left" valign="middle" width="80%">
-      <img src="./assets/tools/typescript.svg" alt="TypeScript" title="TypeScript" width="72" height="72" align="absmiddle" />
-      <img src="./assets/tools/javascript.svg" alt="JavaScript" title="JavaScript" width="72" height="72" align="absmiddle" />
-      <img src="./assets/tools/python.svg" alt="Python" title="Python" width="72" height="72" align="absmiddle" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="72" height="72" align="absmiddle" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" title="Electron" width="72" height="72" align="absmiddle" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="72" height="72" align="absmiddle" />
-      <img src="./assets/tools/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="72" height="72" align="absmiddle" />
+      <img src="./assets/tools/typescript.svg" alt="TypeScript" title="TypeScript" width="36" height="36" align="absmiddle" />
+      <img src="./assets/tools/javascript.svg" alt="JavaScript" title="JavaScript" width="36" height="36" align="absmiddle" />
+      <img src="./assets/tools/python.svg" alt="Python" title="Python" width="36" height="36" align="absmiddle" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="36" height="36" align="absmiddle" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" title="Electron" width="36" height="36" align="absmiddle" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="36" height="36" align="absmiddle" />
+      <img src="./assets/tools/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" align="absmiddle" />
     </td>
   </tr>
   <tr>
     <td align="right" valign="middle"><h3>Automate &amp; Ship</h3></td>
     <td align="left" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare Workers" title="Cloudflare Workers" width="72" height="72" align="absmiddle" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="72" height="72" align="absmiddle" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="72" height="72" align="absmiddle" />
-      <img src="https://cdn.simpleicons.org/github/7EE6B8" alt="GitHub Desktop" title="GitHub Desktop" width="72" height="72" align="absmiddle" />
-      <img src="https://cdn.simpleicons.org/rust/F2A65A" alt="Rust and Cargo" title="Rust and Cargo" width="72" height="72" align="absmiddle" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare Workers" title="Cloudflare Workers" width="36" height="36" align="absmiddle" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="36" height="36" align="absmiddle" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" align="absmiddle" />
+      <img src="https://cdn.simpleicons.org/github/7EE6B8" alt="GitHub Desktop" title="GitHub Desktop" width="36" height="36" align="absmiddle" />
+      <img src="https://cdn.simpleicons.org/rust/F2A65A" alt="Rust and Cargo" title="Rust and Cargo" width="36" height="36" align="absmiddle" />
     </td>
   </tr>
   <tr>
     <td align="right" valign="middle"><h3>Create &amp; Work</h3></td>
     <td align="left" valign="middle">
-      <img src="./assets/tools/vscode.svg" alt="VS Code" title="VS Code" width="72" height="72" align="absmiddle" />
-      <img src="./assets/tools/aftereffects.svg" alt="After Effects" title="After Effects" width="72" height="72" align="absmiddle" />
-      <img src="./assets/tools/premierepro.svg" alt="Premiere Pro" title="Premiere Pro" width="72" height="72" align="absmiddle" />
-      <img src="./assets/tools/blender.svg" alt="Blender" title="Blender" width="72" height="72" align="absmiddle" />
-      <img src="./assets/tools/codex.png" alt="Codex" title="Codex" width="72" height="72" align="absmiddle" />
-      <img src="./assets/tools/claude-code.png" alt="Claude Code" title="Claude Code" width="72" height="72" align="absmiddle" />
+      <img src="./assets/tools/vscode.svg" alt="VS Code" title="VS Code" width="36" height="36" align="absmiddle" />
+      <img src="./assets/tools/aftereffects.svg" alt="After Effects" title="After Effects" width="36" height="36" align="absmiddle" />
+      <img src="./assets/tools/premierepro.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" align="absmiddle" />
+      <img src="./assets/tools/blender.svg" alt="Blender" title="Blender" width="36" height="36" align="absmiddle" />
+      <img src="./assets/tools/codex.png" alt="Codex" title="Codex" width="36" height="36" align="absmiddle" />
+      <img src="./assets/tools/claude-code.png" alt="Claude Code" title="Claude Code" width="36" height="36" align="absmiddle" />
     </td>
   </tr>
 </table>
