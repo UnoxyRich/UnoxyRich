@@ -76,7 +76,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 506 users
+                            Following 505 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -175,20 +175,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 65.1mb of code in 11237 edited files across 726 commits</small>
+                <small>estimation from 66.7mb of code in 11536 edited files across 726 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.93186945745427" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="203.93186945745427" y="0" width="111.49276960138482" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="315.4246390588391" y="0" width="52.98531209054168" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="368.4099511493808" y="0" width="42.44976436251624" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="410.859715511897" y="0" width="19.433272449347747" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="430.29298796124476" y="0" width="17.147186160083645" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="447.44017412132837" y="0" width="7.522428797752361" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.9626029190807" y="0" width="5.037397080919208" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.2791667362001" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="196.2791667362001" y="0" width="116.27436810546459" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="312.5535348416647" y="0" width="55.52597632603425" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="368.07951116769897" y="0" width="44.62423191000123" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="412.7037430777002" y="0" width="18.704023718623866" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="431.4077667963241" y="0" width="16.5037246033479" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="447.911491399672" y="0" width="7.240143780289652" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.15163517996166" y="0" width="4.84836482003842" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -211,7 +211,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TSX
                     </div>
@@ -1410,7 +1410,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imsai-sh/zhuzhiliao</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。</div>
@@ -1499,7 +1499,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    506 followed
+                    505 followed
                 </h2>
                 <div class="row">
                     <section class="people">
@@ -1532,7 +1532,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2026, 18:18:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Aug 2026, 20:21:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
